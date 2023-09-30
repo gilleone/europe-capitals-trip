@@ -40,7 +40,7 @@ async def AT(message: Message):
 async def AL(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["AL"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["AL"]["flag"]} The capital of {data["countries"]["AL"]["country"]}: {data["countries"]["AL"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["AL"]["places"]:
@@ -54,7 +54,7 @@ async def AL(message: Message):
 async def AD(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["AD"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["AD"]["flag"]} The capital of {data["countries"]["AD"]["country"]}: {data["countries"]["AD"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["AD"]["places"]:
@@ -68,7 +68,7 @@ async def AD(message: Message):
 async def BY(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["BY"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["BY"]["flag"]} The capital of {data["countries"]["BY"]["country"]}: {data["countries"]["BY"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["BY"]["places"]:
@@ -82,7 +82,7 @@ async def BY(message: Message):
 async def BE(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["BE"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["BE"]["flag"]} The capital of {data["countries"]["BE"]["country"]}: {data["countries"]["BE"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["BE"]["places"]:
@@ -96,7 +96,7 @@ async def BE(message: Message):
 async def BA(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["BA"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["BA"]["flag"]} The capital of {data["countries"]["BA"]["country"]}: {data["countries"]["BA"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["BA"]["places"]:
@@ -110,7 +110,7 @@ async def BA(message: Message):
 async def BG(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["BG"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["BG"]["flag"]} The capital of {data["countries"]["BG"]["country"]}: {data["countries"]["BG"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["BG"]["places"]:
@@ -124,7 +124,7 @@ async def BG(message: Message):
 async def HR(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["HR"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["HR"]["flag"]} The capital of {data["countries"]["HR"]["country"]}: {data["countries"]["HR"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["HR"]["places"]:
@@ -138,7 +138,7 @@ async def HR(message: Message):
 async def CZ(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["CZ"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["CZ"]["flag"]} The capital of {data["countries"]["CZ"]["country"]}: {data["countries"]["CZ"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["CZ"]["places"]:
@@ -152,7 +152,7 @@ async def CZ(message: Message):
 async def DK(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["DK"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["DK"]["flag"]} The capital of {data["countries"]["DK"]["country"]}: {data["countries"]["DK"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["DK"]["places"]:
@@ -166,7 +166,7 @@ async def DK(message: Message):
 async def EE(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["EE"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["EE"]["flag"]} The capital of {data["countries"]["EE"]["country"]}: {data["countries"]["EE"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["EE"]["places"]:
@@ -180,7 +180,7 @@ async def EE(message: Message):
 async def FI(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["FI"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["FI"]["flag"]} The capital of {data["countries"]["FI"]["country"]}: {data["countries"]["FI"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["FI"]["places"]:
@@ -194,7 +194,7 @@ async def FI(message: Message):
 async def FR(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["FR"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["FR"]["flag"]} The capital of {data["countries"]["FR"]["country"]}: {data["countries"]["FR"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["FR"]["places"]:
@@ -208,21 +208,7 @@ async def FR(message: Message):
 async def DE(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["DE"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
-    await message.answer(response, parse_mode="Markdown")
-
-    for place in data["countries"]["DE"]["places"]:
-        caption = f'{place["number"]} *Place*: {place["name"]}\n*📖 Description:*{place["about"]}\n\n 🔗 The link to the map: [Link]({place["on_map"]})'
-        await message.answer_photo(
-            photo=place["photo"], caption=caption, parse_mode="Markdown"
-        )
-
-
-@dp.message(F.text.lower() == "/germany")
-async def DE(message: Message):
-    with open("app/country_data.json", "r", encoding="utf-8") as f:
-        data = json.load(f)
-    response = f'*{data["countries"]["DE"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["DE"]["flag"]} The capital of {data["countries"]["DE"]["country"]}: {data["countries"]["DE"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["DE"]["places"]:
@@ -236,7 +222,7 @@ async def DE(message: Message):
 async def GR(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["GR"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["GR"]["flag"]} The capital of {data["countries"]["GR"]["country"]}: {data["countries"]["GR"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["GR"]["places"]:
@@ -250,7 +236,7 @@ async def GR(message: Message):
 async def HU(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["HU"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["HU"]["flag"]} The capital of {data["countries"]["HU"]["country"]}: {data["countries"]["HU"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["HU"]["places"]:
@@ -264,7 +250,7 @@ async def HU(message: Message):
 async def IE(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["IE"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["IE"]["flag"]} The capital of {data["countries"]["IE"]["country"]}: {data["countries"]["IE"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["IE"]["places"]:
@@ -278,7 +264,7 @@ async def IE(message: Message):
 async def IT(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["IT"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["IT"]["flag"]} The capital of {data["countries"]["IT"]["country"]}: {data["countries"]["IT"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["IT"]["places"]:
@@ -292,7 +278,7 @@ async def IT(message: Message):
 async def LV(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["LV"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["LV"]["flag"]} The capital of {data["countries"]["LV"]["country"]}: {data["countries"]["LV"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["LV"]["places"]:
@@ -306,7 +292,7 @@ async def LV(message: Message):
 async def LT(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["LT"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["LT"]["flag"]} The capital of {data["countries"]["LT"]["country"]}: {data["countries"]["LT"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["LT"]["places"]:
@@ -320,7 +306,7 @@ async def LT(message: Message):
 async def LU(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["LU"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["LU"]["flag"]} The capital of {data["countries"]["LU"]["country"]}: {data["countries"]["LU"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["LU"]["places"]:
@@ -334,7 +320,7 @@ async def LU(message: Message):
 async def MT(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["MT"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["MT"]["flag"]} The capital of {data["countries"]["MT"]["country"]}: {data["countries"]["MT"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["MT"]["places"]:
@@ -348,7 +334,7 @@ async def MT(message: Message):
 async def MD(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["MD"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["MD"]["flag"]} The capital of {data["countries"]["MD"]["country"]}: {data["countries"]["MD"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["MD"]["places"]:
@@ -362,7 +348,7 @@ async def MD(message: Message):
 async def MC(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["MC"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["MC"]["flag"]} The capital of {data["countries"]["MC"]["country"]}: {data["countries"]["MC"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["MC"]["places"]:
@@ -376,7 +362,7 @@ async def MC(message: Message):
 async def ME(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["ME"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["ME"]["flag"]} The capital of {data["countries"]["ME"]["country"]}: {data["countries"]["ME"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["ME"]["places"]:
@@ -390,7 +376,7 @@ async def ME(message: Message):
 async def NL(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["NL"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["NL"]["flag"]} The capital of {data["countries"]["NL"]["country"]}: {data["countries"]["NL"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["NL"]["places"]:
@@ -404,7 +390,7 @@ async def NL(message: Message):
 async def MK(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["MK"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["MK"]["flag"]} The capital of {data["countries"]["MK"]["country"]}: {data["countries"]["MK"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["MK"]["places"]:
@@ -418,7 +404,7 @@ async def MK(message: Message):
 async def NO(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["NO"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["NO"]["flag"]} The capital of {data["countries"]["NO"]["country"]}: {data["countries"]["NO"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["NO"]["places"]:
@@ -432,7 +418,7 @@ async def NO(message: Message):
 async def PL(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["PL"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["PL"]["flag"]} The capital of {data["countries"]["PL"]["country"]}: {data["countries"]["PL"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["PL"]["places"]:
@@ -446,7 +432,7 @@ async def PL(message: Message):
 async def PT(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["PT"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["PT"]["flag"]} The capital of {data["countries"]["PT"]["country"]}: {data["countries"]["PT"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["PT"]["places"]:
@@ -460,7 +446,7 @@ async def PT(message: Message):
 async def RO(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["RO"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["RO"]["flag"]} The capital of {data["countries"]["RO"]["country"]}: {data["countries"]["RO"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["RO"]["places"]:
@@ -474,7 +460,7 @@ async def RO(message: Message):
 async def RS(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["RS"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["RS"]["flag"]} The capital of {data["countries"]["RS"]["country"]}: {data["countries"]["RS"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["RS"]["places"]:
@@ -488,7 +474,7 @@ async def RS(message: Message):
 async def SK(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["SK"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["SK"]["flag"]} The capital of {data["countries"]["SK"]["country"]}: {data["countries"]["SK"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["SK"]["places"]:
@@ -502,7 +488,7 @@ async def SK(message: Message):
 async def SI(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["SI"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["SI"]["flag"]} The capital of {data["countries"]["SI"]["country"]}: {data["countries"]["SI"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["SI"]["places"]:
@@ -516,7 +502,7 @@ async def SI(message: Message):
 async def ES(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["ES"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["ES"]["flag"]} The capital of {data["countries"]["ES"]["country"]}: {data["countries"]["ES"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["ES"]["places"]:
@@ -530,7 +516,7 @@ async def ES(message: Message):
 async def SE(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["SE"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["SE"]["flag"]} The capital of {data["countries"]["SE"]["country"]}: {data["countries"]["SE"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["SE"]["places"]:
@@ -544,7 +530,7 @@ async def SE(message: Message):
 async def CH(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["CH"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["CH"]["flag"]} The capital of {data["countries"]["CH"]["country"]}: {data["countries"]["CH"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["CH"]["places"]:
@@ -558,7 +544,7 @@ async def CH(message: Message):
 async def UA(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["UA"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["UA"]["flag"]} The capital of {data["countries"]["UA"]["country"]}: {data["countries"]["UA"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["UA"]["places"]:
@@ -572,7 +558,7 @@ async def UA(message: Message):
 async def GB(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["GB"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["GB"]["flag"]} The capital of {data["countries"]["GB"]["country"]}: {data["countries"]["GB"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["GB"]["places"]:
@@ -586,7 +572,7 @@ async def GB(message: Message):
 async def VA(message: Message):
     with open("app/country_data.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    response = f'*{data["countries"]["VA"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    response = f'*{data["countries"]["VA"]["flag"]} The capital of {data["countries"]["VA"]["country"]}: {data["countries"]["VA"]["capital"]}*'
     await message.answer(response, parse_mode="Markdown")
 
     for place in data["countries"]["VA"]["places"]:
