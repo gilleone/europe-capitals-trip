@@ -512,6 +512,90 @@ async def SI(message: Message):
         )
 
 
+@dp.message(F.text.lower() == "/spain")
+async def ES(message: Message):
+    with open("app/country_data.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+    response = f'*{data["countries"]["ES"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    await message.answer(response, parse_mode="Markdown")
+
+    for place in data["countries"]["ES"]["places"]:
+        caption = f'{place["number"]} *Place*: {place["name"]}\n*📖 Description:*{place["about"]}\n\n 🔗 The link to the map: [Link]({place["on_map"]})'
+        await message.answer_photo(
+            photo=place["photo"], caption=caption, parse_mode="Markdown"
+        )
+
+
+@dp.message(F.text.lower() == "/sweden")
+async def SE(message: Message):
+    with open("app/country_data.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+    response = f'*{data["countries"]["SE"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    await message.answer(response, parse_mode="Markdown")
+
+    for place in data["countries"]["SE"]["places"]:
+        caption = f'{place["number"]} *Place*: {place["name"]}\n*📖 Description:*{place["about"]}\n\n 🔗 The link to the map: [Link]({place["on_map"]})'
+        await message.answer_photo(
+            photo=place["photo"], caption=caption, parse_mode="Markdown"
+        )
+
+
+@dp.message(F.text.lower() == "/switzerland")
+async def CH(message: Message):
+    with open("app/country_data.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+    response = f'*{data["countries"]["CH"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    await message.answer(response, parse_mode="Markdown")
+
+    for place in data["countries"]["CH"]["places"]:
+        caption = f'{place["number"]} *Place*: {place["name"]}\n*📖 Description:*{place["about"]}\n\n 🔗 The link to the map: [Link]({place["on_map"]})'
+        await message.answer_photo(
+            photo=place["photo"], caption=caption, parse_mode="Markdown"
+        )
+
+
+@dp.message(F.text.lower() == "/ukraine")
+async def UA(message: Message):
+    with open("app/country_data.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+    response = f'*{data["countries"]["UA"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    await message.answer(response, parse_mode="Markdown")
+
+    for place in data["countries"]["UA"]["places"]:
+        caption = f'{place["number"]} *Place*: {place["name"]}\n*📖 Description:*{place["about"]}\n\n 🔗 The link to the map: [Link]({place["on_map"]})'
+        await message.answer_photo(
+            photo=place["photo"], caption=caption, parse_mode="Markdown"
+        )
+
+
+@dp.message(F.text.lower() == "/unitedkingdom")
+async def GB(message: Message):
+    with open("app/country_data.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+    response = f'*{data["countries"]["GB"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    await message.answer(response, parse_mode="Markdown")
+
+    for place in data["countries"]["GB"]["places"]:
+        caption = f'{place["number"]} *Place*: {place["name"]}\n*📖 Description:*{place["about"]}\n\n 🔗 The link to the map: [Link]({place["on_map"]})'
+        await message.answer_photo(
+            photo=place["photo"], caption=caption, parse_mode="Markdown"
+        )
+
+
+@dp.message(F.text.lower() == "/vatican")
+async def VA(message: Message):
+    with open("app/country_data.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+    response = f'*{data["countries"]["VA"]["flag"]} The capital of {data["countries"]["AT"]["country"]}: {data["countries"]["AT"]["capital"]}*'
+    await message.answer(response, parse_mode="Markdown")
+
+    for place in data["countries"]["VA"]["places"]:
+        caption = f'{place["number"]} *Place*: {place["name"]}\n*📖 Description:*{place["about"]}\n\n 🔗 The link to the map: [Link]({place["on_map"]})'
+        await message.answer_photo(
+            photo=place["photo"], caption=caption, parse_mode="Markdown"
+        )
+
+
 # ----------------------------------------------------
 
 
