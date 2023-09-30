@@ -1,3 +1,4 @@
 /__pycache__
 /app/__pycache__
+/app/config.py
 test.py

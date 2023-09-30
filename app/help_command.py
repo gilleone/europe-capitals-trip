@@ -3,24 +3,24 @@ help_command = f"""
 /help - all commands
 
 🌍 Countries:
-✅🇦🇱 - /Albania
-✅🇦🇩 - /Andorra
-✅🇦🇹 - /Austria
-✅🇧🇾 - /Belarus
-✅🇧🇪 - /Belgium
-✅🇧🇦 - /Bosnia and Herzegovina
-✅🇧🇬 - /Bulgaria
-✅🇭🇷 - /Croatia
-✅🇨🇿 - /Czechia
-✅🇩🇰 - /Denmark
-✅🇪🇪 - /Estonia
-✅🇫🇮 - /Finland
-✅🇫🇷 - /France
-✅🇩🇪 - /Germany
-✅🇬🇷 - /Greece
-✅🇭🇺 - /Hungary
-✅🇮🇸 - /Iceland
-✅🇮🇪 - /Ireland
+🇦🇱 - /Albania
+🇦🇩 - /Andorra
+🇦🇹 - /Austria
+🇧🇾 - /Belarus
+🇧🇪 - /Belgium
+🇧🇦 - /Bosnia
+🇧🇬 - /Bulgaria
+🇭🇷 - /Croatia
+🇨🇿 - /Czechia
+🇩🇰 - /Denmark
+🇪🇪 - /Estonia
+🇫🇮 - /Finland
+🇫🇷 - /France
+🇩🇪 - /Germany
+🇬🇷 - /Greece
+🇭🇺 - /Hungary
+🇮🇸 - /Iceland
+🇮🇪 - /Ireland
 🇮🇹 - /Italy
 🇱🇻 - /Latvia
 🇱🇹 - /Lithuania
@@ -29,10 +29,10 @@ help_command = f"""
 🇲🇩 - /Moldova
 🇲🇨 - /Monaco
 🇲🇪 - /Montenegro
-✅🇳🇱 - /Netherlands
-🇲🇰 - /North Macedonia
+🇳🇱 - /Netherlands
+🇲🇰 - /Macedonia
 🇳🇴 - /Norway
-✅🇵🇱 - /Poland
+🇵🇱 - /Poland
 🇵🇹 - /Portugal
 🇷🇴 - /Romania
 🇷🇸 - /Serbia
@@ -42,6 +42,6 @@ help_command = f"""
 🇸🇪 - /Sweden
 🇨🇭 - /Switzerland
 🇺🇦 - /Ukraine
-🇬🇧 - /United Kingdom
+🇬🇧 - /UnitedKingdom
 🇻🇦 - /Vatican
 """

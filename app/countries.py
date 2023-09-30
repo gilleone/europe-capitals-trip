@@ -1,8 +1,3 @@
-# "number":
-# "name":
-# "about":
-# "on_map":
-# "photo":
 AT = [
     (
         "1️⃣",
