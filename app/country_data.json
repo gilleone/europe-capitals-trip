@@ -120,7 +120,7 @@
                 {
                     "number": "5️⃣",
                     "name": "Museo Carmen Thyssen Andorra",
-                    "about": " - ",
+                    "about": "➖",
                     "on_map": "https://goo.gl/maps/rJjmLrxVFiBDR2eT6",
                     "photo": "https://lh5.googleusercontent.com/p/AF1QipOk1eQ1wpAKpMx4tI_VC76yO7MzJb8vqCjmhf6E=w408-h544-k-no"
                 }
@@ -763,38 +763,38 @@
             "places": [
                 {
                     "number": "1️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "Trevi Fountain",
+                    "about": "Aqueduct-fed rococo fountain, designed by Nicola Salvi & completed in 1762, with sculpted figures.",
+                    "on_map": "https://maps.app.goo.gl/sbVXExTzCDMFAyC97",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipPZ_tTXIPjnl7vqS7Cr_LZwjT_49Hye_tjEhmFn=w408-h519-k-no"
                 },
                 {
                     "number": "2️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "Colosseum",
+                    "about": "Monumental 3-tiered Roman amphitheater once used for gladiatorial games, with guided tour option.",
+                    "on_map": "https://maps.app.goo.gl/MUSTfUSBWoiTF1xN8",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipO0jDqEA4d2y-H9bcfOJ3NgTPhpbdFNFdwB3eZu=w408-h306-k-no"
                 },
                 {
                     "number": "3️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "Castel Sant'Angelo",
+                    "about": "Circular, 2nd-century castle housing furniture & paintings collections in Renaissance apartments.",
+                    "on_map": "https://maps.app.goo.gl/HZBg5bB8ZCMvFBCo7",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipPhFcZZNwMF4vhsS7bj92wNkR1Y8lQbphCApTQK=w408-h247-k-no"
                 },
                 {
                     "number": "4️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "Basilica Papale di Santa Maria Maggiore",
+                    "about": "Landmark papal basilica founded in the 5th century & known for its Roman mosaics & gilded ceiling.",
+                    "on_map": "https://maps.app.goo.gl/MW2tsGMqXd8xcS9W7",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipOF737M2p1Sfk19sr2SSXXhm7oJpE2irSUTraMd=w408-h287-k-no"
                 },
                 {
                     "number": "5️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "Pantheon",
+                    "about": "Iconic temple built circa 118 to 125 A.D. with a dome & Renaissance tombs, including Raphael's.",
+                    "on_map": "https://maps.app.goo.gl/9xPDFAxNrpvw8DRL9",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipMZZUjB9LOvxFVdcKpWRjSKF8cGxLxwmRAKNSis=w408-h272-k-no"
                 }
             ]
         },
@@ -805,38 +805,24 @@
             "places": [
                 {
                     "number": "1️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "RSU Anatomy Museum",
+                    "about": "➖",
+                    "on_map": "https://maps.app.goo.gl/KSFviP7Hu9qFDS1V6",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipM5QsbNpWcqTeJMcEitRM0mXLU24QBKZIG29KZe=w408-h272-k-no"
                 },
                 {
                     "number": "2️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "National Library of Latvia",
+                    "about": "Striking riverside building with exhibitions on Latvian literature, guided tours & a viewing deck.",
+                    "on_map": "https://maps.app.goo.gl/xzg9hyjrTm9q2Geu9",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipNHZs0f3S0F_irPgnjZLIpDqPGAID5k8026eoXn=w408-h271-k-no"
                 },
                 {
                     "number": "3️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
-                },
-                {
-                    "number": "4️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
-                },
-                {
-                    "number": "5️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "Riga Plaza shopping center",
+                    "about": "Bright mall offering international retail chains, a food court, an art gallery & a bowling alley.",
+                    "on_map": "https://maps.app.goo.gl/Nx2yG2j8XdYyNGQE9",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipP8wi9JnH21YSppRLRlnHKZEAHX7XWFyI50OvXq=w426-h240-k-no"
                 }
             ]
         },
@@ -847,38 +833,24 @@
             "places": [
                 {
                     "number": "1️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "Gediminas Castle Tower",
+                    "about": "This 3-story brick tower was originally part of a castle constructed in the 15th century.",
+                    "on_map": "https://maps.app.goo.gl/2NGKe95ocPqd7pFT7",
+                    "photo": "https://lh3.googleusercontent.com/gps-proxy/AFm_dcStXxFgOeNbWR_zSZ-9dOCwaFtBhSiea_D4TdNM-nDf_vj16pLpphr15_7Ww1VP3MmJ27gi5CykMwh8yoYikWesMlVnlDRUiKTCh1jqqV-h6u0qJve7DGXoPSub4FqqOg1voBUJpbLsNp8H_DYDbz8hKhna92sj1vW5X0m0c-ovOcx7pNliSCUtVg=w408-h272-k-no"
                 },
                 {
                     "number": "2️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "MO Museum",
+                    "about": "Museum of modern & contemporary Lithuanian art, with lectures, film screenings & concerts.",
+                    "on_map": "https://maps.app.goo.gl/ByE7i5BcyB5pZxaXA",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipPSSCFJveMyQJ9vJmkh8vbZKcxiY_Ns4XD79Yq8=w408-h272-k-no"
                 },
                 {
                     "number": "3️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
-                },
-                {
-                    "number": "4️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
-                },
-                {
-                    "number": "5️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "Pūčkorių atodanga",
+                    "about": "Wooden viewing platform in a range of forested hills, accessed by a popular walking & cycling path.",
+                    "on_map": "https://maps.app.goo.gl/scHYYEwVeK21zC688",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipOArzethJ0R73VHm46OWrbeY_07PzVVZYJFPuDl=w426-h240-k-no"
                 }
             ]
         },
@@ -889,38 +861,38 @@
             "places": [
                 {
                     "number": "1️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "Bock Casemates",
+                    "about": "Vast complex of underground tunnels & galleries, begun in 1644 & used as WWII bomb shelters.",
+                    "on_map": "https://maps.app.goo.gl/rLnaD29R2zJZeAJz5",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipMb4sF4uukPFm4ZWogKrwGS7Ot257H5BO9S_ztM=w408-h306-k-no"
                 },
                 {
                     "number": "2️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "Place Guillaume II",
+                    "about": "13th-century public square named after King William II, hosting outdoor markets and open-air events.",
+                    "on_map": "https://maps.app.goo.gl/i1xRD5X2Mfm8ecY46",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipMoucDpQaLSP107XJyt362UZk60uNJnpnop1T6w=w426-h240-k-no"
                 },
                 {
                     "number": "3️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "Hamilius (Tram)",
+                    "about": "➖",
+                    "on_map": "https://maps.app.goo.gl/KBZK7gW95rXuhGG77",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipOF6VuYC18_moGylL-erilMPmu4tqXvJJoVF9rr=w408-h306-k-no"
                 },
                 {
                     "number": "4️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "Pont Adolphe",
+                    "about": "Early 1900s stone-arch bridge with picturesque views from the top & a quiet park underneath.",
+                    "on_map": "https://maps.app.goo.gl/UKKnahHTX7MdzZbg9",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipPzhm2TSAbf9W66A8AaR9vwWRnNuu1DcVCFCxSq=w408-h306-k-no"
                 },
                 {
                     "number": "5️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "Mediamarkt Luxembourg",
+                    "about": "➖",
+                    "on_map": "Mediamarkt Luxembourg",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipOgIYcpAZgLVzLJE6lfWzxsL4Ybuvd33juDLuM5=w408-h544-k-no"
                 }
             ]
         },
@@ -931,38 +903,24 @@
             "places": [
                 {
                     "number": "1️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "MUZA - Museum of Fine Arts",
+                    "about": "Medieval to contemporary Maltese art & Baroque masterpieces on display in a 1760's knight's palace.",
+                    "on_map": "https://maps.app.goo.gl/mXHDH9BQ4Kaj3LLE7",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipMGA3sS4Uysd2B1fZ-1bD7ZfvvXqcqhOGnvwJc9=w408-h306-k-no"
                 },
                 {
                     "number": "2️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "St. George’s Square",
+                    "about": "Main square, home to the storied President's Palace & other baroque & neoclassical buildings.",
+                    "on_map": "https://maps.app.goo.gl/ExCQfNGynpjgaPfz8",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipPid9lko8fKQ7pUG2BQU_74cUu99nw5wm6FZ5cD=w408-h306-k-no"
                 },
                 {
                     "number": "3️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
-                },
-                {
-                    "number": "4️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
-                },
-                {
-                    "number": "5️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "HMS Maori Wreck",
+                    "about": "➖",
+                    "on_map": "https://maps.app.goo.gl/vySryY9J1ZypAL2P7",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipNSQV5ksiKseXNkt8MAQYYwIfMWx4gK7ao87nyC=w408-h306-k-no"
                 }
             ]
         },
@@ -973,38 +931,24 @@
             "places": [
                 {
                     "number": "1️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "Village Museum",
+                    "about": "Open-air museum with a 1600s wooden church & traditional architecture in tranquil green surrounds.",
+                    "on_map": "https://maps.app.goo.gl/rnpWWkcUBZNs82qE7",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipNwlcxHcM7pfQqozpRe0GXiLgsxoxO2dny983gL=w408-h544-k-no"
                 },
                 {
                     "number": "2️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "The Triumphal Arch",
+                    "about": "Built in 1840, this 13-m. white stone arch with a clock commemorates the Russo-Turkish War.",
+                    "on_map": "https://maps.app.goo.gl/iBMUJWJyWQeK9xNf7",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipNzFz0Akz6G3161md5H_RMOxWcjS9QrohuP803K=w408-h306-k-no"
                 },
                 {
                     "number": "3️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
-                },
-                {
-                    "number": "4️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
-                },
-                {
-                    "number": "5️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "Alexandru Ciubotaru National Botanical Garden",
+                    "about": "Large green space with reservoirs & around 10,000 species of plants ranging from roses to trees.                    ",
+                    "on_map": "https://maps.app.goo.gl/AA5fqvKgjbrt1xPw5",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipOKCIr9T7ncpCBCrFIxxO7rnswITsaM-Rj3ugcy=w408-h306-k-no"
                 }
             ]
         },
@@ -1015,38 +959,31 @@
             "places": [
                 {
                     "number": "1️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "Casino de Monte-Carlo",
+                    "about": "Elegant Beaux-Arts building, made famous in film and literature, with upscale casino & performances.",
+                    "on_map": "https://maps.app.goo.gl/8j3XrjkXniVgRLHN6",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipO4b58D9wVp3UKCNZri0grofc1_0HR4rk4gQ-wY=w408-h311-k-no"
                 },
                 {
                     "number": "2️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "Princess Grace Japanese Garden",
+                    "about": "Intimate garden featuring Japanese-style landscaping around a pond with a bridge & a tea house.",
+                    "on_map": "https://maps.app.goo.gl/J72rCUe94WUxKcFv6",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipNG162P_f5A2wKi6yk9snrIe3otrGAPrbjaNIfS=w408-h306-k-no"
                 },
                 {
                     "number": "3️⃣",
-                    "name": "Название",
+                    "name": "Tunnel Larvotto",
                     "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "on_map": "https://maps.app.goo.gl/zqHxP1TT2u8iXD7EA",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipPCJl_gTsiakj1QvdUhJsGlEM5ymiUZDjqOilDD=w426-h240-k-no"
                 },
                 {
                     "number": "4️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
-                },
-                {
-                    "number": "5️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "La Collection Automobiles de S.A.S. le Prince de Monaco",
+                    "about": "This spacious museum showcases a wide range of Prince Rainier III's high-end, vintage automobiles.",
+                    "on_map": "https://maps.app.goo.gl/8XZWuC9RoKYm43cbA",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipOmasLUSFSuB7_nYVtqCfRpuvvTSFqavN0tflJj=w408-h272-k-no"
                 }
             ]
         },
@@ -1057,38 +994,31 @@
             "places": [
                 {
                     "number": "1️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "Millennium Bridge",
+                    "about": "Opened in 2005, this iconic cable-stayed bridge spanning the Morača River is 173 m. long.",
+                    "on_map": "https://maps.app.goo.gl/4jKcATzLyELSh1CJ9",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipPivPLq4_PeepAkROR1A0HTSekpCMMsoXr4fYCX=w408-h306-k-no"
                 },
                 {
                     "number": "2️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "Orthodox Temple of Christ's Resurrection",
+                    "about": "Modern, monumental church with delicately carved stonework & an ornate interior of gilded frescoes.",
+                    "on_map": "https://maps.app.goo.gl/n6zgLRPsNAcLHVRRA",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipMfrmZ-Ad5T4pTvEobyGB9oxKEIMBrkaX_XY8YL=w408-h272-k-no"
                 },
                 {
                     "number": "3️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "City Mall",
+                    "about": "➖",
+                    "on_map": "https://maps.app.goo.gl/7qCb9QzqRTszqvhY8",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipMcnqFeITilfjj9FnR_Ioaf-u_MwwYdkIese3Jm=w408-h306-k-no"
                 },
                 {
                     "number": "4️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
-                },
-                {
-                    "number": "5️⃣",
-                    "name": "Название",
-                    "about": "Описание",
-                    "on_map": "URL места на карте",
-                    "photo": ""
+                    "name": "King's Park",
+                    "about": "➖",
+                    "on_map": "https://maps.app.goo.gl/68gqCCcpbCtLx1qbA",
+                    "photo": "https://lh5.googleusercontent.com/p/AF1QipOU8BCOE08gFHyoCJquU4yUgtVthXAlAprmxooS=w408-h306-k-no"
                 }
             ]
         },
