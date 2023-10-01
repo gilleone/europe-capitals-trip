@@ -2,7 +2,7 @@ import json
 from aiogram import F
 from aiogram.types import Message
 
-from main_a3 import dp
+from main import dp
 from app.help_command import help_command
 
 

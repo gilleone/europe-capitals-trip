@@ -1,16 +1,29 @@
+import asyncio
 import logging
-from aiogram import Bot, Dispatcher, executor
+from aiogram import Bot, Dispatcher
 from app.config import TOKEN_API
 
-logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+
+def setup_logger(level: logging) -> None:
+    format = "| %(asctime)s | - | %(levelname)s | - | %(name)s | - | %(message)s"
+    logging.basicConfig(level=level, format=format)
+
+
 bot = Bot(token=TOKEN_API)
-dp = Dispatcher(bot)
+dp = Dispatcher()
+
+
+async def main():
+    from app.handlers import dp
+
+    await dp.start_polling(bot)
 
 
 if __name__ == "__main__":
-    # from app.handlers import dp
-    from app.handlerstest import dp
-
-    executor.start_polling(dp, skip_updates=True)
+    try:
+        setup_logger(logging.INFO)
+        asyncio.run(main())
+    except (KeyboardInterrupt, SystemExit):
+        logging.info("bot stopped by ctrl+c")
