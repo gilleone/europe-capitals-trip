@@ -10,7 +10,7 @@ Europe Capitals Trip🎡🏰 is a Telegram bot developed using aiogram3 that wil
 - Ability to share your experiences and tips with other users.
 
 ## How to Start Using the Bot:
-1. Go to Telegram and find the "Europe Capitals Trip🎡🏰" by name or [link](t.me/europecapitalstripbot).
+1. Go to Telegram and find the "Europe Capitals Trip🎡🏰" by name or [link](https://t.me/europecapitalstripbot).
 2. Click "Start" to begin using the bot.
 3. Choose a country and discover its landmarks.
 
